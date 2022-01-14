@@ -1,0 +1,8 @@
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\bin\Debug\specialProject.exe.config
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\bin\Debug\specialProject.exe
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\bin\Debug\specialProject.pdb
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\obj\Debug\specialProject.csproj.AssemblyReference.cache
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\obj\Debug\specialProject.csproj.SuggestedBindingRedirects.cache
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\obj\Debug\specialProject.csproj.CoreCompileInputs.cache
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\obj\Debug\specialProject.exe
+D:\BRIDGE LABZ\vikas\visualstudio\specialProject\specialProject\obj\Debug\specialProject.pdb

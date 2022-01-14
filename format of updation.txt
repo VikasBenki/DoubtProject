@@ -1,0 +1,17 @@
+Hello Engineers this Google chat group is to provide daily updates thrice in a day at 1pm, 4pm and 7pm.
+Step1:- Copy the below format provided
+Format for daily updates and this should come thrice in a day at 1pm, 4pm and 7pm from each engineer's side -
+What is done today: [.......]
+What I will do next: [.......]
+Is there any hurdle/block/issue you faced: [.......]
+
+Step2:- Edit the format given " [.....]" this should be removed and comment has to be given
+
+Step3:- Post the work status updates thrice a day at 1pm, 4pm, 7pm on daily basis, more updates are appreciable
+
+Note:- This format has to be provided in a single message while sharing the updates
+
+Like...
+What is done today: Visual Studio Installation.
+What i will do next : Git Commands.
+Any issues faced : No

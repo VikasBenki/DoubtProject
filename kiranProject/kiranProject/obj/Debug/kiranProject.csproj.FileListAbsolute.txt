@@ -1,0 +1,8 @@
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\bin\Debug\kiranProject.exe.config
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\bin\Debug\kiranProject.exe
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\bin\Debug\kiranProject.pdb
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\obj\Debug\kiranProject.csproj.AssemblyReference.cache
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\obj\Debug\kiranProject.csproj.SuggestedBindingRedirects.cache
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\obj\Debug\kiranProject.csproj.CoreCompileInputs.cache
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\obj\Debug\kiranProject.exe
+D:\BRIDGE LABZ\vikas\visualstudio\kiranProject\kiranProject\obj\Debug\kiranProject.pdb
